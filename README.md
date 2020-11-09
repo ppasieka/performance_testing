@@ -166,6 +166,7 @@ Table of Contents
 * [PerfCake](http://perfcake.org/)
 	* [PerfCake - a Lightweight Open Source Performance Testing Tool](http://www.methodsandtools.com/tools/perfcake.php)
 * [Performance testing framework](https://github.com/serputko/performance-testing-framework)
+* [NBomber](https://nbomber.com/)
 
 ### Database
 
